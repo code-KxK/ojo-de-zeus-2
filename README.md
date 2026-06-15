@@ -93,7 +93,7 @@ pkg install -y clang make
 
 # 4) Clonar e instalar
 ```bash
-git clone https://github.com/eoeg2011/ojo-de-zeus-2.git
+git clone https://github.com/KxK-code/ojo-de-zeus-2.git
 cd ojo-de-zeus-2
 pip install --upgrade pip
 pip install -r requirements.txt
