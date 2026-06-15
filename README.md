@@ -239,7 +239,7 @@ Sí. Usa SSH y modo headless. Si luego agregas GUI (Xfce/Weston), podrás usar F
 ---
 
 ## 🙌 Créditos
-Proyecto creado y mantenido por **Kike (eoeg2011)**.  
+Proyecto creado y mantenido por **Kike_kike (KxK-code)**.  
 Agradecimientos a la comunidad OSINT por ideas, pruebas y retroalimentación.
 
 ---  
